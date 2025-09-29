@@ -153,13 +153,6 @@ Or simply mention us in your acknowledgments:
 This project uses the Context-Aware Geospatial Data Retrieval system developed by Aditya Shingote, Shishir Narkhede, Sunil Kumawat, and Kaushal Borkar.
 ```
 
-## Authors
-
-- [Aditya Shingote](https://github.com/addy-codes1)
-- [Shishir Narkhede](https://github.com/Shishir-grez)
-- [Sunil Kumawat](https://github.com/Sunilk240) 
-- [Kaushal Borkar](https://github.com/kaushal13) 
-
 ## Acknowledgments
 
 - OpenAI for GPT-4 API
